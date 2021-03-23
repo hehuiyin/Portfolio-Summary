@@ -4,7 +4,7 @@
 
 * High Note Premium subscriber Analysis:
   + Language: R
-  + Analysis: [https://hehuiyin.github.io/High-Note/]
+  + https://hehuiyin.github.io/High-Note/
 
 * Star Digital Online Advertising Analysis:
   + Language: R
