@@ -1,6 +1,6 @@
 # Summary
 
-### Here is the summary of my projects:
+### Here is a summary of my projects:
 
 * High Note Premium subscriber Analysis:
   + Language: R
