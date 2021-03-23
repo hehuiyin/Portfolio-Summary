@@ -1,0 +1,23 @@
+baseURL: https://example.com
+languageCode: en-us
+title: Showcase Theme
+Paginate: 1000
+googleAnalytics: ''
+theme: showcase-hugo-theme
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - RSS
+params:
+  author: Huiyin He
+  description: Minimal, one page, theme for showcasing your work
+  hideAutoMenu: no
+  message: 'Hi, I am Cloris. Welcome to my page!'
+menu:
+  main:
+    - name: Resume 
+      url: Resume-Huiyin(Cloris)He.pdf
+social:
+  linkedin: https://linkedin.com/in/huiyin-cloris-he-a85b77152/
+  github: https://github.com/hehuiyin
+  
