@@ -19,3 +19,7 @@
 * Retina Datathon 2020 - Customer Retention Insight Automation:
   + Language: R
   + Analysis: https://hehuiyin.github.io/Retina-Datathon-2020/
+
+* Clustering Analysis on investment data
+  + Language: R
+  + Analysis: https://hehuiyin.github.io/Clustering-Analysis/
