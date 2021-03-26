@@ -33,3 +33,9 @@
   + Language: Python 
   + Analysis: https://github.com/hehuiyin/Yelp-Prediction/blob/main/README.md
   + Technique: Naive Bayes, Random Forest 
+
+* UCI Merage Online Advertising Analysis
+  + Language: R
+  + Analysis:https://hehuiyin.github.io/UCI-Merage-Online-Ads/
+  + Technique: Logistic Regression, Ridge Regression, Lasso Regression, Elastic Net Regression
+  + Tool: Tableau
